@@ -15,7 +15,7 @@ public class SessionController {
 	
 	private static Logger logger = Logger.getLogger(SessionController.class);
 	
-	private static final String COOKIE_DOMAIN = ".jnpr.net";
+	private static final String COOKIE_DOMAIN = ".juniper.net";
 
     private static final String COOKIE_PATH = "/";
 	
